@@ -1,0 +1,1 @@
+# An-integrated-mediapipe-optimized-GRU-model-for-Indian-sign-language-recognition
